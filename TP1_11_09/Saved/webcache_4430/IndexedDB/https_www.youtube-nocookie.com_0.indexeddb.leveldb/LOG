@@ -1,0 +1,6 @@
+2024/09/11-15:11:41.386 58bc Creating DB C:/Users/arozen/Desktop/Moteurs de jeux Unreal Engine/TP1_11_09/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/09/11-15:11:41.396 58bc Reusing MANIFEST C:/Users/arozen/Desktop/Moteurs de jeux Unreal Engine/TP1_11_09/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/11-15:19:40.497 6218 Level-0 table #5: started
+2024/09/11-15:19:40.503 6218 Level-0 table #5: 1167 bytes OK
+2024/09/11-15:19:40.505 6218 Delete type=0 #3
+2024/09/11-15:19:40.506 6218 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
